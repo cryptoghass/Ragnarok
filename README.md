@@ -1,5 +1,5 @@
 # Ragnarok Coin
-**[https://ragnarok.space]()**
+**[https://ragnaproject.io]()**
 
 Ragnarok Coin is an open source virtual unit of account, processed via publicly accessible, Mine-able, Blockchain system for instantaneuous processing of peer-to-peer cashless payment transactions.
 
@@ -9,7 +9,7 @@ Ragnarok Coin is an open source virtual unit of account, processed via publicly 
 | Specification          | Value             |
 | ---------------------- |:------------------|
 | Block Spacing          | 120 seconds       |
-| Staking Minimum Age    | 8 hours           |
+| Staking Minimum Age    | 7 hours           |
 | Masternode Minimum Age | 24 hours          |
 | Reward                 | 40% PoS / 60% MN  |
 
@@ -19,10 +19,9 @@ Ragnarok Coin is an open source virtual unit of account, processed via publicly 
 | ------------- |:------------------|
 | Bitcointalk   | [https://bitcointalk.org/index.php?topic=](https://bitcointalk.org/index.php?topic=)       |
 | Discord       | [https://discord.gg/9PCxww](https://discord.gg/9PCxww) |
-| Website       | [https://ragnarok.space](https://ragnarok.space) |
-| Explorer      | [https://explorer.ragnarok.space](http://explorer.ragnarok.space)
+| Website       | [https://ragnaproject.io](https://ragnarok.space) |
+| Explorer      | [https://explorer.ragnaproject.io](http://explorer.ragnaproject.io)
 
-## Guides
-You can find various guides in our dedicated **[resources repository](https://github.com/ragnarokcoin/pos-resources)**.
+
 
 
