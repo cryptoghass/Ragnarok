@@ -2,6 +2,11 @@
 
 Ragnarok Coin is an open source virtual unit of account, processed via publicly accessible, Mine-able, Blockchain system for instantaneuous processing of peer-to-peer cashless payment transactions.
 
+## Official Link  
+**[Website](https://ragnaproject.io) | [Explorer](https://explorer.ragnaproject.io) | [Official Ann](https://bitcointalk.org/index.php?topic=3765596.new#new) | [Discord](https://discord.gg/6bCDr5z) | [Masternode Guide](https://discord.gg/YgAvQyU)**
+
+
+
 ## Specifications
 
 
@@ -40,17 +45,4 @@ Ragnarok Coin is an open source virtual unit of account, processed via publicly 
 <tr><td>1043999-1562398</td><td>40</td><td>60</td><td>3.6 RAGNA</td></tr>
 <tr><td>1562398-End</td><td>40</td><td>60</td><td>2.7 RAGNA</td></tr>
 </table>
-
-
-## Official Links
-
-| Specification | Value             |
-| ------------- |:------------------|
-| Bitcointalk   | [https://bitcointalk.org/index.php?topic=3765596.new#new](https://bitcointalk.org/index.php?topic=3765596.new#new)       |
-| Discord       | [https://discord.gg/6bCDr5z](https://discord.gg/6bCDr5z) |
-| Website       | [https://ragnaproject.io](https://ragnaproject.io) |
-| Explorer      | [https://explorer.ragnaproject.io](http://explorer.ragnaproject.io)
-
-
-
 
